@@ -1,6 +1,18 @@
 
 /* Your CSS Code here. */
 
+thead{
+	text-align: left;
+}
+
+tbody{
+	text-align: right
+}
+
+.left{
+	text-align: left;
+}
+
 .red{
 	
 }
